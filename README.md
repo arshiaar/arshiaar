@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arshiaar
 - 👀 I’m interested in machine learning and full-stack development
-- 🌱 I’m currently learning statistics and computer science 
+
 
 
 <!---
